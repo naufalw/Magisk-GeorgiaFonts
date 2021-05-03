@@ -1,0 +1,7 @@
+id=georgiafontfix
+name=Georgia Font Fix
+version=V1
+versionCode=1
+author=nauFOSS
+description=Attempt to fix georgia font
+minMagisk=20200
